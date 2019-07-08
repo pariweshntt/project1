@@ -1,3 +1,3 @@
 class User{
-    String name1;
+    String name1;;
 }
